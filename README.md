@@ -4,7 +4,7 @@
     - Majority classifier 
     - Even/Odd classifier
   
-- Logistic Rregression classifier 
+- Logistic Regression classifier 
     - AdaGrad: adaptively alter learning rates
   
 - Support Vector Machine 
