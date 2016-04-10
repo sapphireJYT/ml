@@ -4,14 +4,14 @@
     - Majority classifier 
     - Even/Odd classifier
   
-- Logistic Regression classifier 
+- Logistic Regression  
     - AdaGrad: adaptively alter learning rates
   
 - Support Vector Machine 
     - Pegasos: Primal Estimated sub-GrAdient SOlver for SVM
   
 - Gradient based learning for Restricted Boltzmann Machine 
-    - use EM for learning
+    - Expectation–Maximization
   
 - Loopy Belief Propagation for loopy MRF calculation
   

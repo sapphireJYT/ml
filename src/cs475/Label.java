@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public abstract class Label implements Serializable {
 
-	public String _label;
+  public String _label;
 	
-	public abstract String toString();
+  public abstract String toString();
 }
